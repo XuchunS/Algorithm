@@ -1,0 +1,10 @@
+{
+    "C_Cpp.default.cppStandard": "c++17",
+    "C_Cpp.default.cStandard": "c11",
+    "files.associations": {
+        "*.cc": "cpp",
+        "*.cpp": "cpp",
+        "unordered_map": "cpp",
+        "vector": "cpp"
+    }
+}
