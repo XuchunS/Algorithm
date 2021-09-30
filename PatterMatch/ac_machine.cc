@@ -90,5 +90,5 @@ int main() {
     cin >> target;
     Node* root = new Node();
     build(root);
-    query();
+    query(root);
 }
