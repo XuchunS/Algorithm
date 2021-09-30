@@ -13,3 +13,6 @@ for (int i = x; i <= n; i += lowbit(x)) tr[i] += c;
 ```C++
 for (int i = x; i > 0; i -= lowbit(x)) res += tr[i];
 ```
+### 适用问题
+1. 区间查询，单点修改。
+2. 区间修改，单点查询。 (利用差分转化为 情况1)。
