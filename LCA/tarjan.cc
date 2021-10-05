@@ -46,7 +46,7 @@ void tarjan(int u) {
     
     st[u] = 2;   // 该点已经回溯访问结束
 }
-
+// 询问 两点之间的距离
 int main() {
     ios::sync_with_stdio(false);
     cin.tie(0);
